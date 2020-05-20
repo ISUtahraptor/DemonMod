@@ -1,0 +1,25 @@
+{
+  "_fv": 8,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "RUN!",
+          "color": {
+            "value": -10092544,
+            "falpha": 0.0
+          },
+          "name": "RUN!",
+          "x": 406,
+          "y": 125
+        }
+      }
+    ]
+  }
+}

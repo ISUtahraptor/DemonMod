@@ -1,0 +1,65 @@
+{
+  "demon": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "demonmod:untitled",
+        "stream": false
+      }
+    ]
+  },
+  "uwu": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "demonmod:untitled1",
+        "stream": false
+      }
+    ]
+  },
+  "notmygrandson": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "demonmod:untitled1",
+        "stream": false
+      }
+    ]
+  },
+  "nonono": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "demonmod:untitled1",
+        "stream": true
+      }
+    ]
+  },
+  "whywhywhy": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "demonmod:untitled3",
+        "stream": false
+      }
+    ]
+  },
+  "demonhurt": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "demonmod:demon4",
+        "stream": false
+      }
+    ]
+  },
+  "demonliving1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "demonmod:demon1",
+        "stream": false
+      }
+    ]
+  }
+}

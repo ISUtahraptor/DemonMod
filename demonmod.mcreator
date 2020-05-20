@@ -1,0 +1,427 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "TheBruhMachine",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demondimision"
+    },
+    {
+      "name": "Demonbiome",
+      "type": "biome",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Demonportalframe",
+      "type": "structure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Uwu",
+      "type": "musicdisc",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ew",
+      "type": "fluid",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Demonset",
+      "type": "achievement",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Portal",
+      "type": "loottable",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DemonchestGUI",
+      "type": "gui",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Demonchestbutton",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Piglindemon",
+      "type": "mob",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Uwu2",
+      "type": "gui",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TheBruhMachinePlayerEntersDimension",
+      "type": "procedure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Demonfox",
+      "type": "mob",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonbear"
+    },
+    {
+      "name": "Demonfix",
+      "type": "mob",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demonfox"
+    },
+    {
+      "name": "DemonOre",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_ore"
+    },
+    {
+      "name": "DemonOreBlock",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_ore_block"
+    },
+    {
+      "name": "DemonIngot",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_ingot"
+    },
+    {
+      "name": "DemonOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_ore_block_recipe"
+    },
+    {
+      "name": "DemonBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_block_ore_recipe"
+    },
+    {
+      "name": "DemonOreSmelting",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_ore_smelting"
+    },
+    {
+      "name": "DemonPickaxe",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_pickaxe"
+    },
+    {
+      "name": "DemonAxe",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_axe"
+    },
+    {
+      "name": "DemonSword",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_sword"
+    },
+    {
+      "name": "DemonShovel",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_shovel"
+    },
+    {
+      "name": "DemonHoe",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_hoe"
+    },
+    {
+      "name": "DemonPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_pickaxe_recipe"
+    },
+    {
+      "name": "DemonAxeRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_axe_recipe"
+    },
+    {
+      "name": "DemonSwordRecipe",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_sword_recipe"
+    },
+    {
+      "name": "DemonShovelRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_shovel_recipe"
+    },
+    {
+      "name": "DemonHoeRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_hoe_recipe"
+    },
+    {
+      "name": "DemonArmor",
+      "type": "armor",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_armor"
+    },
+    {
+      "name": "DemonArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_armor_helmet_recipe"
+    },
+    {
+      "name": "DemonArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_armor_body_recipe"
+    },
+    {
+      "name": "DemonArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_armor_leggings_recipe"
+    },
+    {
+      "name": "DemonArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "demon",
+      "file": "untitled",
+      "category": "ambient"
+    },
+    {
+      "name": "uwu",
+      "file": "untitled1",
+      "category": "master"
+    },
+    {
+      "name": "notmygrandson",
+      "file": "untitled1",
+      "category": "master"
+    },
+    {
+      "name": "nonono",
+      "file": "untitled1",
+      "category": "music"
+    },
+    {
+      "name": "whywhywhy",
+      "file": "untitled3",
+      "category": "master"
+    },
+    {
+      "name": "demonhurt",
+      "file": "demon4",
+      "category": "master"
+    },
+    {
+      "name": "demonliving1",
+      "file": "demon1",
+      "category": "master"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "advancements.demonset.title": "Demon Set",
+      "block.demonmod.demon_ore_block": "Block of Demon",
+      "entity.demonmod.demonbear": "Demon Bear",
+      "item.demonmod.demon_axe": "Demon Axe",
+      "item.demonmod.demonbear": "Demon Bear Spawn Egg",
+      "item.demonmod.demon_armorhelmet": "Demon Helmet",
+      "item.demonmod.piglindemon": "Demon Spawn Egg",
+      "item.demonmod.demondimision": "Demon Dimension Lighter",
+      "entity.demonmod.demonfox": "Demon Fox",
+      "block.demonmod.demon_ore": "Demon Ore",
+      "entity.demonmod.piglindemon": "Demon",
+      "item.demonmod.demon_ingot": "Demon",
+      "item.demonmod.demon_hoe": "Demon Hoe",
+      "fluid.ew": "Ew",
+      "item.demonmod.demon_armorlegs": "Demon Leggings",
+      "item.demonmod.uwu.desc": "No do not listen to this",
+      "item.demonmod.demon_sword": "Demon Sword",
+      "item.demonmod.ew_bucket": "Ew Bucket",
+      "item.demonmod.demonfox": "Demon Fox Spawn Egg",
+      "item.demonmod.demon_pickaxe": "Demon Pickaxe",
+      "item.demonmod.demon_shovel": "Demon Shovel",
+      "item.demonmod.demon_armorbody": "Demon Chestplate",
+      "item.demonmod.demon_armorboots": "Demon Boots",
+      "advancements.demonset.descr": "Congrats",
+      "item.demonmod.uwu": "Uwu",
+      "biome.demonmod.demonbiome": "Demonbiome"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "demonmod",
+    "modName": "Demon Mod",
+    "version": "Alpha V.3",
+    "author": "isuta, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.demonmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000321315
+}

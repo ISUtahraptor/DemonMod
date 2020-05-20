@@ -1,0 +1,17 @@
+{
+  "_fv": 8,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "creenshot_2020-05-09_impsons_ontainment_reach1",
+    "name": "Uwu",
+    "description": "No do not listen to this",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:nonono"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

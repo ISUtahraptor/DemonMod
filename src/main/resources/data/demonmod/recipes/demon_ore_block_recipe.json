@@ -1,0 +1,42 @@
+{
+  "group": "demonmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "demonmod:demon_ingot"
+    },
+    "1": {
+      "item": "demonmod:demon_ingot"
+    },
+    "2": {
+      "item": "demonmod:demon_ingot"
+    },
+    "3": {
+      "item": "demonmod:demon_ingot"
+    },
+    "4": {
+      "item": "demonmod:demon_ingot"
+    },
+    "5": {
+      "item": "demonmod:demon_ingot"
+    },
+    "6": {
+      "item": "demonmod:demon_ingot"
+    },
+    "7": {
+      "item": "demonmod:demon_ingot"
+    },
+    "8": {
+      "item": "demonmod:demon_ingot"
+    }
+  },
+  "result": {
+    "item": "demonmod:demon_ore_block",
+    "count": 1
+  }
+}

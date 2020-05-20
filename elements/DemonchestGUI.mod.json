@@ -1,0 +1,50 @@
+{
+  "_fv": 8,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Suffer",
+          "color": {
+            "value": -10092544,
+            "falpha": 0.0
+          },
+          "name": "Suffer",
+          "x": 394,
+          "y": 94
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "Just type here lol",
+          "width": 240,
+          "height": 40,
+          "name": "textw",
+          "x": 305,
+          "y": 138
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Portaal",
+          "onClick": {
+            "name": "Demonchestbutton"
+          },
+          "width": 140,
+          "height": 40,
+          "name": "Portaal",
+          "x": 356,
+          "y": 185
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "demonmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "demonmod:demon_ingot"
+    },
+    "1": {
+      "item": "demonmod:demon_ingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "demonmod:demon_sword",
+    "count": 1
+  }
+}

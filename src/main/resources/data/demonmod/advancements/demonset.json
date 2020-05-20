@@ -1,0 +1,37 @@
+{
+  "display": {
+    "background": "demonmod:textures/fluid.png",
+    "icon": {
+      "item": "demonmod:demon_ore"
+    },
+    "title": {
+      "translate": "advancements.demonset.title"
+    },
+    "description": {
+      "translate": "advancements.demonset.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "demonset": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "demonmod:demon_ore",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "_fv": 8,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.REDSTONE_BLOCK"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0.42,
+    "portalSound": {
+      "value": "CUSTOM:demonhurt"
+    },
+    "igniterName": "Demon Dimension Lighter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "portal_lighter",
+    "portalTexture": "creenshot_2020-05-09_impsons_ontainment_reach",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Demonbiome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.BUBBLE_COLUMN"
+    },
+    "airColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "hasWeather": true,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "onPlayerEntersDimension": {
+      "name": "TheBruhMachinePlayerEntersDimension"
+    }
+  }
+}

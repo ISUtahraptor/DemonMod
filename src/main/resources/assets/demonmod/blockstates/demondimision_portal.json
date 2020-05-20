@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "demonmod:block/demondimision_portal_ew"
+    },
+    "axis=x": {
+      "model": "demonmod:block/demondimision_portal_ns"
+    }
+  }
+}
